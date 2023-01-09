@@ -1,0 +1,17 @@
+.container-ls{
+    background-color: rgb(16, 98, 0);
+}
+.img-responsive{
+    width: 100px; height: 100px;
+    
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(255, 255, 255);
+}
+.img-responsive1{
+    width: 900px; height: 300px; object-fit: contain; 
+    
+}

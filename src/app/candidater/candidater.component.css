@@ -1,0 +1,11 @@
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family: monaco,monospace;
+    color: aliceblue;
+}
+button{
+    margin-left: 45%;
+    font-size: 20px;
+    font-family: monaco,monospace;
+}

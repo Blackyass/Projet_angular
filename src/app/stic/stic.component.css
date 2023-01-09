@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-family:Menlo,Consolas,monaco,monospace;
+}
+.img-responsive2{
+    width: 960px; height: 200px; object-fit: contain; 
+    
+}
+.img-responsive1{
+    width: 960px; height: 350px; object-fit: contain; 
+    
+}
+h4{
+    text-align: center;
+    font-family:Menlo,Consolas,monaco,monospace;
+}

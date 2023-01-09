@@ -1,0 +1,13 @@
+.navbar-inverse{
+    background-color: rgb(16, 98, 0);
+}
+.img-responsive{
+    width: 75px; height: 65px; object-fit: contain;
+    
+}
+.navbar-nav{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}

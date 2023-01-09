@@ -1,0 +1,57 @@
+
+.formInscrip{
+    width: 350px;
+    height: 400px;
+    background-color: #fdfdff;
+    margin: auto;
+    top: 5%;
+    left: 0;
+    right: 0;
+    padding: 30px;
+    border-radius: 5%;
+    border-top: 5px solid #01db1e;
+    border-bottom: 5px solid #01db1e;
+    box-shadow: 0 0 25px rgb(5, 235, 5);
+}
+.form-text{
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.form-saisie span{
+    font-size: 14px;
+    font-weight: bold;
+}
+.form-saisie input{
+    width: 100%;
+    font-size: 16px;
+    outline: none;
+    background-color: #01db1e;
+    color: #fff;
+    margin: 15px 0;
+    padding: 7px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+.form-saisie input[type="submit"].btnInscris{
+    width: 100%;
+    font-size: 18px;
+    background-color:#01db1e;
+    color: #fff;
+    padding: 10;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+.form-saisie input[type="submit"].btnInscris:hover{
+    background-color: rgb(54, 243, 54);
+    color: #ececf0;
+}
+.form-saisie a{
+    font-size: 14px;
+    font-weight: bold;
+    color: #01db1e;
+}
+
